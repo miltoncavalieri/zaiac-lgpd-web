@@ -1,0 +1,10 @@
+.rodape {
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    height: 40px;
+    width: 100%;
+    background-color: transparent;
+    box-sizing: border-box;
+  }
+  
